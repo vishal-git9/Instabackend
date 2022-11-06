@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "heroku": "^7.65.0",
+    "json-server": "^0.17.1"
+  },
+  "name": "instabackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal-git9/Instabackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal-git9/Instabackend/issues"
+  },
+  "homepage": "https://github.com/vishal-git9/Instabackend#readme",
+  "description": ""
+}
